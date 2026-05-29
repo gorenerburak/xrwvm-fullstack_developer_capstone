@@ -124,3 +124,7 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.custom-text-color {
+    color: #5d93e8 !important;
+}
